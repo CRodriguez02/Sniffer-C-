@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1606930730 source:f:\cucei\20b-cuarto semestre-inco\seminario de redes de computación\prueba pcap\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1254896404 c:\program files (x86)\codeblocks\archivos de pcap\include\pcap.h
+	<pcap/pcap.h>
+
+1277477064 c:\program files (x86)\codeblocks\archivos de pcap\include\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254896404 c:\program files (x86)\codeblocks\archivos de pcap\include\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254896404 c:\program files (x86)\codeblocks\archivos de pcap\include\bittypes.h
+
+1254896398 c:\program files (x86)\codeblocks\archivos de pcap\include\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1606927428 c:\program files (x86)\codeblocks\archivos de pcap\include\pcap\bpf.h
+
+1155161818 c:\program files (x86)\codeblocks\archivos de pcap\include\win32-extensions.h
+
+1190910736 c:\program files (x86)\codeblocks\archivos de pcap\include\remote-ext.h
+
+1607196005 source:f:\cucei\20b-cuarto semestre-inco\seminario de redes de computación\sniffer\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1607196005 source:f:\cucei\20b-cuarto semestre-inco\seminario de redes de computación\practica 10\sniffer\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
